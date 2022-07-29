@@ -1,5 +1,12 @@
 this is my daily routine.
+
 this is second line
 this is command line work
+<<<<<<< HEAD
 
 i am learning git
+=======
+feature1 line change
+this is second line and also this for bug issues
+
+>>>>>>> b083a3b9f44d58a460c3cc052cc3e6a2631350de
