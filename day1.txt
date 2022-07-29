@@ -1,2 +1,7 @@
 this is my daily routine.
+
+this is second line
+this is command line work
+feature1 line change
 this is second line and also this for bug issues
+
